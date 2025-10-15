@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "AGRISPON®: Organic Soil & Plant Activator",
-    "currentPage": "index.html",
+    "currentPage": "about-us.html",
     "ai": {
       "prompt": "We are Dakol Organic. Legal business name is Ace1World Enterprise. The trade name or brand name of the business is Dakol Organic. We will be using a custom domain name of agrispon.com but \"AGRISPON\" is the name of our flagship product. We want this website to be mainly about AGRISPON but also to provide information on our company and our other products.\n\nEssentially, we are a biotechnology distribution company of which we are the sole distributor of AGRISPON in Malaysia, a world-renowned nanobiostimulant product. I want to make it known that we are the sole distributor of AGRISPON in Malaysia and that we are not the manufacturer of AGRISPON. ",
       "imageSearchQuery": "plant growth"
@@ -1991,7 +1991,7 @@
         }
       ]
     },
-    "page1.html": {
+    "about-us.html": {
       "settings": {
         "title": "AGRISPON Malaysia | About Us",
         "order": "1",
@@ -3051,7 +3051,7 @@
         }
       ]
     },
-    "page2.html": {
+    "contact-us.html": {
       "settings": {
         "title": "AGRISPON Malaysia | Contact Us",
         "order": "2",
